@@ -1,19 +1,19 @@
 {
-  "name": "linter-js-standard",
+  "name": "modern-standard-ide-plugin-atom",
   "main": "./lib/init.js",
   "activationCommands": [],
-  "version": "3.2.1",
-  "description": "Linter plugin for JavaScript Standard Style",
+  "version": "1.0.0",
+  "description": "Linter plugin for JavaScript Modern Standard Style",
   "keywords": [
     "javascript",
     "standard",
     "linter"
   ],
   "author": {
-    "name": "Ricardo Barros",
-    "email": "ricardofbarros@hotmail.com"
+    "name": "Kevin Grandon",
+    "email": "kevingrandon@yahoo.com"
   },
-  "repository": "https://github.com/ricardofbarros/linter-js-standard.git",
+  "repository": "https://github.com/modern-standard/ide-plugin-atom.git",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
